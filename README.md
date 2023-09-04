@@ -6,4 +6,7 @@ static
 templates
 uploads   are in the IBM folder .
 Thankyou
-I have made same Project with roboflow platform With my own data set chechout:-https://github.com/vanbitcase/Aircraft-skin-defect-detection
+
+
+
+I have also made same Project with roboflow platform With my own data set chechout:-https://github.com/vanbitcase/Aircraft-skin-defect-detection
