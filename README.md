@@ -6,10 +6,10 @@ Link to the Colabfile:-https://colab.research.google.com/drive/1RfK0NK61S032ygWP
 
 
 After getting the Zip file Make sure to that the folder:-
-__pycache__
-static
-templates
-uploads   are in the IBM folder .
+__pycache__,
+static,
+templates,
+uploads, named folder are in the 'IBM' nmaed folder. .
 Thankyou
 
 
